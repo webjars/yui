@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>yui</artifactId>
-    <version>3.11.0-SNAPSHOT</version>
+    <version>3.13.0-SNAPSHOT</version>
     <name>YUI</name>
     <description>WebJar for YUI</description>
     <url>http://webjars.org</url>
@@ -41,7 +41,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstreamVersion>3.11.0</upstreamVersion>
+        <upstreamVersion>3.13.0</upstreamVersion>
         <sourceUrl>http://yui.zenfs.com/releases/yui3</sourceUrl>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstreamVersion}</destDir>
     </properties>
